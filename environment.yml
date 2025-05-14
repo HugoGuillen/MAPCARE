@@ -1,0 +1,15 @@
+name: chop_pipeline
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - ollama-client
+  - chromadb
+  - networkx
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - click
+  - lxml

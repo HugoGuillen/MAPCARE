@@ -1,53 +1,30 @@
-# MAPCARE: Multilingual Approach for Procedures in Clinical and Retrieval Embeddings
+# CHOP-OPS Processing Pipeline
 
-This repository contains the new unified code for processing CHOP data. The script `process_chop.py` provides a command-line interface to either translate or generate extended explanations for the clinical texts in your CHOP CSV file.
+This repository provides a modular, reproducible pipeline for:
 
-## Repository Structure
+1. **Translating** CHOP codes from German to English with medical explanations (using Ollama LLM).
+2. **Cleaning** and parsing raw translation outputs into structured CSVs.
+3. **Generating embeddings** for CHOP descriptions and OPS terms with Ollama & ChromaDB.
+4. **Mapping** CHOP codes to OPS codes via cosine similarity.
+5. **Parsing** the OPS CLaML XML into a tabular hierarchy.
+6. **Evaluating** semantic alignment of CHOP–OPS mappings with a simple rubric.
+7. **Analyzing** performance and visualization of results.
 
+## Quickstart
+
+```bash
+conda env create -f environment.yml
+conda activate chop_pipeline
+make all
 ```
-MAPCARE/
-├── process_chop.py       # Main processing script with CLI options
-├── run_process.sh        # Sample SLURM batch script to run the process
-├── README.md             # This file
-├── requirements.txt      # Python dependencies
-└── .gitignore            # Files/directories to ignore in git
+
+Or run individual steps:
+```bash
+python scripts/translate_chop.py --input inputs/CHOP.csv --output outputs/translated.csv
+python scripts/clean_translations.py --input outputs/translated.csv --output outputs/clean.csv
+python scripts/embed_chop.py --input outputs/clean.csv --out-vectors outputs/embeddings_chop.parquet --out-corpus outputs/embeddings_chop.txt --persist-dir db
+python scripts/map_chop_ops.py --chop-vectors outputs/embeddings_chop.parquet --ops-vectors outputs/embeddings_ops.parquet --output outputs/chop2ops.tsv
+python scripts/parse_ops.py --input inputs/ops2023syst_claml.xml --abbv inputs/OPS_ABBV.tsv --output outputs/ops_parsed.csv
+python scripts/evaluate_semantics.py --map outputs/chop2ops.tsv --output outputs/semantic_eval.csv
+python scripts/analyze_results.py --input outputs/semantic_eval.csv --output figures/
 ```
-
-## Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/MAPCARE.git
-   cd MAPCARE
-   ```
-
-2. **Create and activate a virtual environment:**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # On Windows: venv\Scripts\activate
-   ```
-
-3. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Configure and start your Ollama service** as needed (see your existing setup).
-
-## Usage
-
-Run the script using the command line. For example:
-
-- To translate:
-  ```bash
-  python process_chop.py --mode translate --input ~/data/chop.csv --output ~/outputs/translated.csv
-  ```
-
-- To generate extended explanations:
-  ```bash
-  python process_chop.py --mode extended --input ~/data/chop.csv --output ~/outputs/extended.csv
-  ```
-
-## SLURM Batch Script
-
-Use the provided `run_process.sh` file to run the jobs on your cluster.

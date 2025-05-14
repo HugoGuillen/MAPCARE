@@ -1,0 +1,10 @@
+pandas
+numpy
+ollama-client
+chromadb
+networkx
+matplotlib
+seaborn
+scikit-learn
+click
+lxml
