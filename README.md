@@ -1,4 +1,4 @@
-# CHOP-OPS Processing Pipeline
+MAP-CARE: Multilingual Approach for Procedures in Clinical and Retrieval Embeddings
 
 This repository provides a modular, reproducible pipeline for:
 
