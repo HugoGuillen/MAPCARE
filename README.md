@@ -6,7 +6,9 @@ Supporting code for the article **"MAP-CARE: Enhancing Cross-Lingual Medical Int
 Hugo Guillen-Ramirez(1), Karen Triep(2), Guido Beldi(1) Olga Endrich(2,3)
 
 1 Department of Visceral Surgery and Medicine, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland
+
 2 Medical Directorate, Medizincontrolling, Inselspital, University Hospital Bern, Insel Gruppe, Bern, Switzerland
+
 3 Department of Clinical Chemistry, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland
 
 
