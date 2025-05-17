@@ -1,5 +1,5 @@
 # MAP-CARE: Multilingual Approach for Procedures in Clinical and Retrieval Embeddings
-
+[![DOI](https://zenodo.org/badge/920522820.svg)](https://doi.org/10.5281/zenodo.15453910)
 
 Supporting code for the article **"MAP-CARE: Enhancing Cross-Lingual Medical Intervention Terms Analysis Through LLM-supported Semantic Embeddings"**
 
