@@ -1,0 +1,11 @@
+﻿nbchar,zcode,item type,text,codable,emitter,status,modification date,indent level,lateralite
+1,C0,T,Massnahmen und Interventionen nicht anderswo Klassifizierbar (00),non,,0,,1,
+2,Z00,T,Massnahmen und Interventionen nicht anderswo klassifizierbar,non,,0,,2,
+3,Z00.0,T,Therapeutischer Ultraschall,non,,0,,3,
+3,Z00.0,X,Diagnostischer Ultraschall (nicht-invasiv) (88.7-),non,,0,,3,
+3,Z00.0,X,Intrakardiale Echokardiographie [IKE] (37.28),non,,0,,3,
+3,Z00.0,X,Intravaskuläre Bildgebung von Blutgefässen (00.21-00.28),non,,0,,3,
+4,Z00.01,T,Therapeutischer Ultraschall von Blutgefässen an Kopf und Hals,oui,,0,,4,Lateral
+4,Z00.01,B,Anti-Restenose Ultraschall,non,,0,,4,
+4,Z00.01,B,"Intravaskulärer, nicht verödender (nicht abladierender) Ultraschall",non,,0,,4,
+4,Z00.01,X,Diagnostischer Ultraschall des Auges (95.13),non,,0,,4,

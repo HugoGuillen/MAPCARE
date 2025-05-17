@@ -1,0 +1,414 @@
+﻿nbchar,zcode,item type,text,codable,emitter,status,modification date,indent level,lateralite,clean_text,translation_raw,translation,description
+1,C0,T,Massnahmen und Interventionen nicht anderswo Klassifizierbar (00),non,,0,,1,,Massnahmen und Interventionen nicht anderswo Klassifizierbar ,"Measures and Interventions Not Otherwise Classified|This category encompasses medical procedures or interventions that do not fit into more specific diagnostic or treatment categories. It serves as a general placeholder for less common or unique actions taken during patient care.  
+
+
+",Measures and Interventions Not Otherwise Classified,This category encompasses medical procedures or interventions that do not fit into more specific diagnostic or treatment categories. It serves as a general placeholder for less common or unique actions taken during patient care.
+2,Z00,T,Massnahmen und Interventionen nicht anderswo klassifizierbar,non,,0,,2,,Massnahmen und Interventionen nicht anderswo klassifizierbar,"Measures and Interventions Not Otherwise Classified|This refers to medical procedures or treatments that do not fall under any specific category or classification system used in medical coding or documentation.  
+
+
+",Measures and Interventions Not Otherwise Classified,This refers to medical procedures or treatments that do not fall under any specific category or classification system used in medical coding or documentation.
+3,Z00.0,T,Therapeutischer Ultraschall,non,,0,,3,,Therapeutischer Ultraschall,"Therapeutic Ultrasound|The application of ultrasound waves to treat medical conditions. Therapeutic ultrasound uses high-frequency sound waves to generate heat within tissues, promoting healing and reducing inflammation. It is commonly used in physical therapy to manage pain, reduce swelling, and improve tissue mobility. 
+
+
+",Therapeutic Ultrasound,"The application of ultrasound waves to treat medical conditions. Therapeutic ultrasound uses high-frequency sound waves to generate heat within tissues, promoting healing and reducing inflammation. It is commonly used in physical therapy to manage pain, reduce swelling, and improve tissue mobility."
+3,Z00.0,X,Diagnostischer Ultraschall (nicht-invasiv) (88.7-),non,,0,,3,,Diagnostischer Ultraschall  ,"Diagnostic Ultrasound|A medical imaging technique that uses high-frequency sound waves to create images of internal body structures. It is a non-invasive procedure that can be used to diagnose a variety of conditions. 
+
+
+",Diagnostic Ultrasound,A medical imaging technique that uses high-frequency sound waves to create images of internal body structures. It is a non-invasive procedure that can be used to diagnose a variety of conditions.
+3,Z00.0,X,Intrakardiale Echokardiographie [IKE] (37.28),non,,0,,3,,Intrakardiale Echokardiographie [IKE] ,"Transthoracic echocardiography (TTE)| A non-invasive diagnostic procedure that uses high-frequency sound waves to create images of the heart's structure and function.  It is performed by placing a transducer on the chest wall, which emits sound waves that reflect back from the heart structures. The reflected waves are then processed by a computer to produce real-time moving images of the heart chambers, valves, and blood flow. 
+
+
+",Transthoracic echocardiography (TTE),"A non-invasive diagnostic procedure that uses high-frequency sound waves to create images of the heart's structure and function.  It is performed by placing a transducer on the chest wall, which emits sound waves that reflect back from the heart structures. The reflected waves are then processed by a computer to produce real-time moving images of the heart chambers, valves, and blood flow."
+3,Z00.0,X,Intravaskuläre Bildgebung von Blutgefässen (00.21-00.28),non,,0,,3,,Intravaskuläre Bildgebung von Blutgefässen ,"Intravascular Imaging of Blood Vessels|A medical imaging technique that involves visualizing blood vessels from within. This is typically achieved by inserting a catheter with a miniature camera or sensor into the bloodstream, allowing for direct visualization of the vessel walls and lumen (the space inside the vessel).  It's used to diagnose and assess various vascular conditions, such as atherosclerosis, aneurysms, and stenosis. 
+
+
+",Intravascular Imaging of Blood Vessels,"A medical imaging technique that involves visualizing blood vessels from within. This is typically achieved by inserting a catheter with a miniature camera or sensor into the bloodstream, allowing for direct visualization of the vessel walls and lumen (the space inside the vessel).  It's used to diagnose and assess various vascular conditions, such as atherosclerosis, aneurysms, and stenosis."
+4,Z00.01,T,Therapeutischer Ultraschall von Blutgefässen an Kopf und Hals,oui,,0,,4,Lateral,Therapeutischer Ultraschall von Blutgefässen an Kopf und Hals,"Therapeutic Ultrasound of Blood Vessels in Head and Neck| Therapeutic ultrasound uses high-frequency sound waves to treat conditions affecting blood vessels in the head and neck region. This non-invasive procedure can be used to improve blood flow, reduce inflammation, and promote healing. 
+
+
+",Therapeutic Ultrasound of Blood Vessels in Head and Neck,"Therapeutic ultrasound uses high-frequency sound waves to treat conditions affecting blood vessels in the head and neck region. This non-invasive procedure can be used to improve blood flow, reduce inflammation, and promote healing."
+4,Z00.01,B,Anti-Restenose Ultraschall,non,,0,,4,,Anti-Restenose Ultraschall,"Antistent Ultrasound|Ultrasound used to evaluate the placement and function of a stent (a small tube inserted into a blood vessel to keep it open).  
+
+
+",Antistent Ultrasound,Ultrasound used to evaluate the placement and function of a stent (a small tube inserted into a blood vessel to keep it open).
+4,Z00.01,B,"Intravaskulärer, nicht verödender (nicht abladierender) Ultraschall",non,,0,,4,,"Intravaskulärer, nicht verödender  Ultraschall","Intravascular, Non-Occlusive Ultrasound|A type of ultrasound imaging that uses a probe inserted into a blood vessel to visualize blood flow and the vessel walls. ""Intravascular"" refers to being within a blood vessel, while ""non-occlusive"" means that the probe does not block blood flow. This technique allows for real-time visualization of blood vessels and can be used to diagnose various conditions, such as atherosclerosis, aneurysms, and vascular malformations. 
+
+
+","Intravascular, Non-Occlusive Ultrasound","A type of ultrasound imaging that uses a probe inserted into a blood vessel to visualize blood flow and the vessel walls. ""Intravascular"" refers to being within a blood vessel, while ""non-occlusive"" means that the probe does not block blood flow. This technique allows for real-time visualization of blood vessels and can be used to diagnose various conditions, such as atherosclerosis, aneurysms, and vascular malformations."
+4,Z00.01,X,Diagnostischer Ultraschall des Auges (95.13),non,,0,,4,,Diagnostischer Ultraschall des Auges ,"Diagnostic Ultrasound of the Eye |Ultrasound imaging to diagnose conditions affecting the eye. Also known as ocular ultrasonography, is a non-invasive diagnostic procedure that utilizes high-frequency sound waves to create images of the eye's internal structures. This imaging technique is particularly useful for evaluating the posterior segment of the eye, which includes the vitreous humor, retina, choroid, and optic nerve. 
+",Diagnostic Ultrasound of the Eye,"Ultrasound imaging to diagnose conditions affecting the eye. Also known as ocular ultrasonography, is a non-invasive diagnostic procedure that utilizes high-frequency sound waves to create images of the eye's internal structures. This imaging technique is particularly useful for evaluating the posterior segment of the eye, which includes the vitreous humor, retina, choroid, and optic nerve."
+4,Z00.01,X,Diagnostischer Ultraschall des Innenohres (20.79),non,,0,,4,,Diagnostischer Ultraschall des Innenohres ,"Diagnostic Ultrasound of the Inner Ear|Ultrasound imaging to diagnose conditions affecting the inner ear.  Also known as otic ultrasonography, is a non-invasive diagnostic procedure that utilizes high-frequency sound waves to create images of the structures within the inner ear. This imaging technique can help evaluate the cochlea, vestibular system, and other structures involved in hearing and balance. 
+
+
+",Diagnostic Ultrasound of the Inner Ear,"Ultrasound imaging to diagnose conditions affecting the inner ear.  Also known as otic ultrasonography, is a non-invasive diagnostic procedure that utilizes high-frequency sound waves to create images of the structures within the inner ear. This imaging technique can help evaluate the cochlea, vestibular system, and other structures involved in hearing and balance."
+4,Z00.01,X,Diagnostischer Ultraschall von Kopf und Hals (88.71.-),non,,0,,4,,Diagnostischer Ultraschall von Kopf und Hals ,"Diagnostic Ultrasound of Head and Neck|Ultrasound imaging used to examine the structures in the head and neck region. This non-invasive procedure uses high-frequency sound waves to create images of tissues and organs, helping to diagnose a variety of conditions affecting the area.  
+
+
+",Diagnostic Ultrasound of Head and Neck,"Ultrasound imaging used to examine the structures in the head and neck region. This non-invasive procedure uses high-frequency sound waves to create images of tissues and organs, helping to diagnose a variety of conditions affecting the area."
+4,Z00.01,X,Ultraschall Angioplastie an Nicht-Herzkranzgefäss (39.50),non,,0,,4,,Ultraschall Angioplastie an Nicht-Herzkranzgefäss ,"Ultrasound Angioplasty of Non-Coronary Vessels| A minimally invasive procedure that uses ultrasound waves to widen narrowed or blocked blood vessels outside the heart (non-coronary vessels). This technique involves using a specialized ultrasound probe to create high-frequency sound waves that target and break down plaque buildup within the vessel walls, restoring blood flow. 
+
+
+",Ultrasound Angioplasty of Non-Coronary Vessels,"A minimally invasive procedure that uses ultrasound waves to widen narrowed or blocked blood vessels outside the heart (non-coronary vessels). This technique involves using a specialized ultrasound probe to create high-frequency sound waves that target and break down plaque buildup within the vessel walls, restoring blood flow."
+4,Z00.01,X,"Ultraschall Embolektomie (38.01, 38.02)",non,,0,,4,,Ultraschall Embolektomie ,"Ultrasound Embolism Removal|A minimally invasive procedure that uses ultrasound waves to break up blood clots (emboli) in a blood vessel.  The ultrasound energy creates cavitation bubbles that implode against the clot, fragmenting it into smaller pieces that can be flushed away by the bloodstream. This technique is often used to treat deep vein thrombosis (DVT) and pulmonary embolism (PE). 
+
+
+",Ultrasound Embolism Removal,"A minimally invasive procedure that uses ultrasound waves to break up blood clots (emboli) in a blood vessel.  The ultrasound energy creates cavitation bubbles that implode against the clot, fragmenting it into smaller pieces that can be flushed away by the bloodstream. This technique is often used to treat deep vein thrombosis (DVT) and pulmonary embolism (PE)."
+4,Z00.01,X,"Ultraschall Endarteriektomie (38.11, 38.12)",non,,0,,4,,Ultraschall Endarteriektomie ,"Ultrasound-Guided Endarterectomy|A surgical procedure where an artery is surgically removed to treat a blockage or narrowing (stenosis). The ""ultrasound-guided"" aspect means that ultrasound imaging is used during the surgery to visualize the artery and guide the surgeon's instruments.  This helps ensure precision and minimize damage to surrounding tissues. 
+
+
+",Ultrasound-Guided Endarterectomy,"A surgical procedure where an artery is surgically removed to treat a blockage or narrowing (stenosis). The ""ultrasound-guided"" aspect means that ultrasound imaging is used during the surgery to visualize the artery and guide the surgeon's instruments.  This helps ensure precision and minimize damage to surrounding tissues."
+4,Z00.01,X,"Ultraschall Thrombektomie (38.01, 38.02)",non,,0,,4,,Ultraschall Thrombektomie ,"Ultrasound Thrombectomy|A minimally invasive procedure that uses ultrasound waves to break up blood clots (thrombi) in a blood vessel.  It is often used to treat strokes caused by blocked arteries in the brain. 
+
+
+",Ultrasound Thrombectomy,A minimally invasive procedure that uses ultrasound waves to break up blood clots (thrombi) in a blood vessel.  It is often used to treat strokes caused by blocked arteries in the brain.
+4,Z00.02,T,Therapeutischer Ultraschall des Herzen,oui,,0,,4,,Therapeutischer Ultraschall des Herzen,"Therapeutic Ultrasound of the Heart|The use of ultrasound waves to treat heart conditions.  This involves applying focused high-frequency sound waves to specific areas of the heart muscle to achieve therapeutic effects such as tissue ablation or stimulation. 
+
+
+",Therapeutic Ultrasound of the Heart,The use of ultrasound waves to treat heart conditions.  This involves applying focused high-frequency sound waves to specific areas of the heart muscle to achieve therapeutic effects such as tissue ablation or stimulation.
+4,Z00.02,B,Anti-Restenose Ultraschall,non,,0,,4,,Anti-Restenose Ultraschall,"Antistent Ultrasound|Ultrasound used to evaluate the placement and function of a stent (a small tube inserted into a blood vessel to keep it open).  
+
+
+",Antistent Ultrasound,Ultrasound used to evaluate the placement and function of a stent (a small tube inserted into a blood vessel to keep it open).
+4,Z00.02,B,"Intravaskulärer, nicht verödender (nicht abladierender) Ultraschall",non,,0,,4,,"Intravaskulärer, nicht verödender  Ultraschall","Intravascular, Non-Occlusive Ultrasound|A type of ultrasound imaging that uses a probe inserted into a blood vessel to visualize blood flow and the vessel walls. ""Intravascular"" refers to being within a blood vessel, while ""non-occlusive"" means that the probe does not block blood flow. This technique allows for real-time visualization of blood vessels and can be used to diagnose various conditions, such as atherosclerosis, aneurysms, and vascular malformations. 
+
+
+","Intravascular, Non-Occlusive Ultrasound","A type of ultrasound imaging that uses a probe inserted into a blood vessel to visualize blood flow and the vessel walls. ""Intravascular"" refers to being within a blood vessel, while ""non-occlusive"" means that the probe does not block blood flow. This technique allows for real-time visualization of blood vessels and can be used to diagnose various conditions, such as atherosclerosis, aneurysms, and vascular malformations."
+4,Z00.02,X,Diagnostischer Ultraschall des Herzens (88.72),non,,0,,4,,Diagnostischer Ultraschall des Herzens ,"Diagnostic Ultrasound of the Heart|  A non-invasive medical procedure that uses high-frequency sound waves (ultrasound) to create images of the heart's structure and function. It is also known as echocardiography and is used to diagnose a variety of heart conditions, such as valve problems, congenital heart defects, and cardiomyopathy. 
+
+
+",Diagnostic Ultrasound of the Heart,"A non-invasive medical procedure that uses high-frequency sound waves (ultrasound) to create images of the heart's structure and function. It is also known as echocardiography and is used to diagnose a variety of heart conditions, such as valve problems, congenital heart defects, and cardiomyopathy."
+4,Z00.02,X,Entfernung von Läsion oder Gewebe des Herzens mit Katheter (37.34),non,,0,,4,,Entfernung von Läsion oder Gewebe des Herzens mit Katheter ,"Cardiac Lesion or Tissue Removal via Catheter|A minimally invasive procedure where a catheter is guided through blood vessels to the heart to remove diseased tissue or lesions. This technique allows for precise targeting and removal of abnormal growths or areas of damage within the heart chambers or valves.  
+
+
+",Cardiac Lesion or Tissue Removal via Catheter,A minimally invasive procedure where a catheter is guided through blood vessels to the heart to remove diseased tissue or lesions. This technique allows for precise targeting and removal of abnormal growths or areas of damage within the heart chambers or valves.
+4,Z00.02,X,"Ultraschall Angioplastie an Herzkranzgefässen (00.66, 36.09)",non,,0,,4,,Ultraschall Angioplastie an Herzkranzgefässen ,"Transesophageal Echocardiography-Guided Coronary Angioplasty|A minimally invasive procedure to widen narrowed or blocked coronary arteries using a balloon catheter guided by real-time ultrasound imaging performed through the esophagus.  This technique allows for precise visualization of the heart's chambers and blood vessels, enhancing the accuracy and safety of the angioplasty procedure. 
+
+
+",Transesophageal Echocardiography-Guided Coronary Angioplasty,"A minimally invasive procedure to widen narrowed or blocked coronary arteries using a balloon catheter guided by real-time ultrasound imaging performed through the esophagus.  This technique allows for precise visualization of the heart's chambers and blood vessels, enhancing the accuracy and safety of the angioplasty procedure."
+4,Z00.03,T,Therapeutischer Ultraschall von peripheren Blutgefässen,oui,,0,,4,,Therapeutischer Ultraschall von peripheren Blutgefässen,"Therapeutic Ultrasound of Peripheral Blood Vessels|The use of ultrasound waves to treat conditions affecting blood vessels outside of the heart and brain. This therapy can help improve blood flow, reduce inflammation, and promote healing in peripheral arteries and veins. 
+
+
+",Therapeutic Ultrasound of Peripheral Blood Vessels,"The use of ultrasound waves to treat conditions affecting blood vessels outside of the heart and brain. This therapy can help improve blood flow, reduce inflammation, and promote healing in peripheral arteries and veins."
+4,Z00.03,B,Anti-Restenose Ultraschall,non,,0,,4,,Anti-Restenose Ultraschall,"Antistent Ultrasound|Ultrasound used to evaluate the placement and function of a stent (a small tube inserted into a blood vessel to keep it open).  
+
+
+",Antistent Ultrasound,Ultrasound used to evaluate the placement and function of a stent (a small tube inserted into a blood vessel to keep it open).
+4,Z00.03,B,"Intravaskulärer, nicht verödender (nicht abladierender) Ultraschall",non,,0,,4,,"Intravaskulärer, nicht verödender  Ultraschall","Intravascular, Non-Occlusive Ultrasound|A type of ultrasound imaging that uses a probe inserted into a blood vessel to visualize blood flow and the vessel walls. ""Intravascular"" refers to being within a blood vessel, while ""non-occlusive"" means that the probe does not block blood flow. This technique allows for real-time visualization of blood vessels and can be used to diagnose various conditions, such as atherosclerosis, aneurysms, and vascular malformations. 
+
+
+","Intravascular, Non-Occlusive Ultrasound","A type of ultrasound imaging that uses a probe inserted into a blood vessel to visualize blood flow and the vessel walls. ""Intravascular"" refers to being within a blood vessel, while ""non-occlusive"" means that the probe does not block blood flow. This technique allows for real-time visualization of blood vessels and can be used to diagnose various conditions, such as atherosclerosis, aneurysms, and vascular malformations."
+4,Z00.03,X,Diagnostischer Ultraschall des peripheren vaskulären Systems (88.77),non,,0,,4,,Diagnostischer Ultraschall des peripheren vaskulären Systems ,"Diagnostic Ultrasound of the Peripheral Vascular System |  Ultrasound imaging used to examine blood vessels outside of the heart and brain. This can include arteries and veins in the arms, legs, neck, and abdomen. It helps visualize blood flow, identify blockages or narrowing (stenosis), and assess the health of these vessels. 
+
+
+",Diagnostic Ultrasound of the Peripheral Vascular System,"Ultrasound imaging used to examine blood vessels outside of the heart and brain. This can include arteries and veins in the arms, legs, neck, and abdomen. It helps visualize blood flow, identify blockages or narrowing (stenosis), and assess the health of these vessels."
+4,Z00.03,X,Ultraschall Angioplastie an Nicht-Herzkranzgefäss (39.50),non,,0,,4,,Ultraschall Angioplastie an Nicht-Herzkranzgefäss ,"Ultrasound Angioplasty of Non-Coronary Vessels| A minimally invasive procedure that uses ultrasound waves to widen narrowed or blocked blood vessels outside the heart (non-coronary vessels). This technique involves using a specialized ultrasound probe to create high-frequency sound waves that target and break down plaque buildup within the vessel walls, restoring blood flow. 
+
+
+",Ultrasound Angioplasty of Non-Coronary Vessels,"A minimally invasive procedure that uses ultrasound waves to widen narrowed or blocked blood vessels outside the heart (non-coronary vessels). This technique involves using a specialized ultrasound probe to create high-frequency sound waves that target and break down plaque buildup within the vessel walls, restoring blood flow."
+4,Z00.09,T,"Therapeutischer Ultraschall, sonstige",oui,,0,,4,,"Therapeutischer Ultraschall, sonstige","Therapeutic Ultrasound, Other| Therapeutic ultrasound refers to the application of high-frequency sound waves to treat various medical conditions.  ""Other"" in this context likely indicates that the therapeutic ultrasound is being used for a purpose beyond common applications like pain management or tissue healing. 
+
+
+","Therapeutic Ultrasound, Other","Therapeutic ultrasound refers to the application of high-frequency sound waves to treat various medical conditions.  ""Other"" in this context likely indicates that the therapeutic ultrasound is being used for a purpose beyond common applications like pain management or tissue healing."
+4,Z00.09,X,Desintegration von Harnsteinen mit Ultraschall (59.95),non,,0,,4,,Desintegration von Harnsteinen mit Ultraschall ,"Lithotripsy with Ultrasound|A minimally invasive procedure that uses high-energy sound waves to break down kidney stones into smaller fragments that can be passed through urine.  It is an alternative to surgical removal of kidney stones and often involves the patient lying on a table while a transducer emits focused ultrasound waves at the stone location. 
+
+
+",Lithotripsy with Ultrasound,A minimally invasive procedure that uses high-energy sound waves to break down kidney stones into smaller fragments that can be passed through urine.  It is an alternative to surgical removal of kidney stones and often involves the patient lying on a table while a transducer emits focused ultrasound waves at the stone location.
+4,Z00.09,X,Perkutane Nephrostomie mit Desintegration von Steinmaterial durch Ultraschall (55.04),non,,0,,4,,Perkutane Nephrostomie mit Desintegration von Steinmaterial durch Ultraschall ,"Percutaneous Nephrotomy with Ultrasound Lithotripsy | A minimally invasive procedure where a needle is inserted through the skin into the kidney to drain urine and break up kidney stones using ultrasound waves.  
+
+
+",Percutaneous Nephrotomy with Ultrasound Lithotripsy,A minimally invasive procedure where a needle is inserted through the skin into the kidney to drain urine and break up kidney stones using ultrasound waves.
+4,Z00.09,X,Transurethrale (Ultraschall-) geführte laserinduzierte Prostatektomie [TULIP] (60.21.11),non,,0,,4,,Transurethrale  geführte laserinduzierte Prostatektomie [TULIP] ,"Transurethral Laser-Induced Prostatectomy (TULIP)|A minimally invasive surgical procedure to remove part or all of the prostate gland using a laser fiber inserted through the urethra. TULIP is an alternative to traditional open prostatectomy and offers several advantages, including shorter recovery times, less blood loss, and reduced risk of complications. 
+
+
+",Transurethral Laser-Induced Prostatectomy (TULIP),"A minimally invasive surgical procedure to remove part or all of the prostate gland using a laser fiber inserted through the urethra. TULIP is an alternative to traditional open prostatectomy and offers several advantages, including shorter recovery times, less blood loss, and reduced risk of complications."
+3,Z00.1,T,Pharmakon,non,,0,,3,,Pharmakon,"Drug|A substance used for the diagnosis, treatment, or prevention of disease. 
+
+
+",Drug,"A substance used for the diagnosis, treatment, or prevention of disease."
+4,Z00.10,T,Implantation einer chemotherapeutischen Substanz,oui,,0,,4,,Implantation einer chemotherapeutischen Substanz,"Implantation of a Chemotherapeutic Agent|The surgical procedure of placing a device containing chemotherapy medication into the body. This is often done to deliver medication directly to a tumor site, minimizing systemic side effects. 
+
+
+",Implantation of a Chemotherapeutic Agent,"The surgical procedure of placing a device containing chemotherapy medication into the body. This is often done to deliver medication directly to a tumor site, minimizing systemic side effects."
+4,Z00.10,B,Interstitiell/ intrakavitär,non,,0,,4,,Interstitiell/ intrakavitär,"Interstitial/Intracavitary |  **Interstitial:** Relating to or situated between the cells or tissues of a body. **Intracavitary:** Located within a cavity of the body. 
+
+
+",Interstitial/Intracavitary,Interstitial:** Relating to or situated between the cells or tissues of a body. **Intracavitary:** Located within a cavity of the body.
+4,Z00.10,X,Verabreichung von Zytostatikum (99.25.-),non,,0,,4,,Verabreichung von Zytostatikum ,"Administration of Cytotoxic Drug|The process of giving a medication that kills or inhibits the growth of cells, often used in cancer treatment.  Cytotoxic drugs work by interfering with the DNA replication and cell division processes, ultimately leading to the death of rapidly dividing cancer cells. 
+
+
+",Administration of Cytotoxic Drug,"The process of giving a medication that kills or inhibits the growth of cells, often used in cancer treatment.  Cytotoxic drugs work by interfering with the DNA replication and cell division processes, ultimately leading to the death of rapidly dividing cancer cells."
+4,Z00.11,T,Infusion von Drotrecogin alfa (aktiviert),oui,,0,,4,,Infusion von Drotrecogin alfa ,"Administration of Drotrecogin Alfa|Drotrecogin alfa (activated) is a medication used to treat severe sepsis. It is a recombinant form of activated protein C, a naturally occurring anticoagulant that helps regulate the body's inflammatory response.  It is administered intravenously over a period of 96 hours. 
+
+
+",Administration of Drotrecogin Alfa,"Drotrecogin alfa (activated) is a medication used to treat severe sepsis. It is a recombinant form of activated protein C, a naturally occurring anticoagulant that helps regulate the body's inflammatory response.  It is administered intravenously over a period of 96 hours."
+4,Z00.11,B,Infusion von rekombinantem Protein,non,,0,,4,,Infusion von rekombinantem Protein,"Administration of Recombinant Protein|The process of delivering a protein that has been produced through genetic engineering (recombinant DNA technology) into a patient's body.  Recombinant proteins are often used as therapeutic agents to treat various diseases, such as diabetes, hemophilia, and certain cancers. 
+
+
+",Administration of Recombinant Protein,"The process of delivering a protein that has been produced through genetic engineering (recombinant DNA technology) into a patient's body.  Recombinant proteins are often used as therapeutic agents to treat various diseases, such as diabetes, hemophilia, and certain cancers."
+4,Z00.12,T,"Inhalation von Stickstoffmonoxid, nach Dauer der Behandlung",non,,0,,4,,"Inhalation von Stickstoffmonoxid, nach Dauer der Behandlung","Inhalation of Nitric Oxide, after Duration of Treatment |Nitric oxide (NO) is a gaseous molecule with potent vasodilatory properties. It is administered via inhalation to improve blood flow in the lungs and reduce pulmonary vascular resistance. The duration of treatment with inhaled nitric oxide varies depending on the patient's condition and response to therapy. 
+
+
+","Inhalation of Nitric Oxide, after Duration of Treatment",Nitric oxide (NO) is a gaseous molecule with potent vasodilatory properties. It is administered via inhalation to improve blood flow in the lungs and reduce pulmonary vascular resistance. The duration of treatment with inhaled nitric oxide varies depending on the patient's condition and response to therapy.
+4,Z00.12,B,NO-Therapie,non,,0,,4,,NO-Therapie,"NO Therapy|Therapy involving Nitric Oxide (NO), a gaseous molecule with various physiological effects, including vasodilation (widening of blood vessels) and neurotransmission. NO therapy is used in clinical settings for conditions such as pulmonary hypertension and critical care medicine. 
+
+
+",NO Therapy,"Therapy involving Nitric Oxide (NO), a gaseous molecule with various physiological effects, including vasodilation (widening of blood vessels) and neurotransmission. NO therapy is used in clinical settings for conditions such as pulmonary hypertension and critical care medicine."
+4,Z00.12,B,Stickstoffmonoxid-Therapie,non,,0,,4,,Stickstoffmonoxid-Therapie,"Nitric Oxide Therapy|A medical treatment that involves administering nitric oxide (NO) to a patient. Nitric oxide is a gaseous molecule with potent vasodilatory effects, meaning it relaxes and widens blood vessels. It's used in various clinical settings, including: 
+
+* **Neonatal respiratory distress syndrome:** To improve oxygenation in premature infants with breathing difficulties.
+* **Severe pulmonary hypertension:** To reduce pressure in the arteries of the lungs.
+* **Septic shock:** To support blood flow and organ perfusion in critically ill patients.
+
+
+
+",Nitric Oxide Therapy,"A medical treatment that involves administering nitric oxide (NO) to a patient. Nitric oxide is a gaseous molecule with potent vasodilatory effects, meaning it relaxes and widens blood vessels. It's used in various clinical settings, including:
+**Neonatal respiratory distress syndrome:** To improve oxygenation in premature infants with breathing difficulties.
+**Severe pulmonary hypertension:** To reduce pressure in the arteries of the lungs.
+**Septic shock:** To support blood flow and organ perfusion in critically ill patients."
+5,Z00.12.0,T,Detail der Subkategorie 00.12,non,,0,,5,,Detail der Subkategorie 00.12,"Subcategory 00.12 details  **""Diagnostic Ultrasound of the Eye - Anterior Segment""**.
+
+This subcategory focuses specifically on using ultrasound to examine the front part of the eye (anterior segment), which includes structures like:
+
+* **Cornea:** The transparent outer layer covering the front of the eye.
+* **Iris:** The colored part of the eye that controls the size of the pupil.
+* **Pupil:** The opening in the center of the iris that allows light to enter the eye.
+* **Lens:** A transparent structure behind the iris that focuses light onto the retina.
+* **Anterior Chamber:** The space between the cornea and the iris, filled with aqueous humor.
+
+
+","Subcategory 00.12 details  **""Diagnostic Ultrasound of the Eye - Anterior Segment""**.","This subcategory focuses specifically on using ultrasound to examine the front part of the eye (anterior segment), which includes structures like:
+**Cornea:** The transparent outer layer covering the front of the eye.
+**Iris:** The colored part of the eye that controls the size of the pupil.
+**Pupil:** The opening in the center of the iris that allows light to enter the eye.
+**Lens:** A transparent structure behind the iris that focuses light onto the retina.
+**Anterior Chamber:** The space between the cornea and the iris, filled with aqueous humor."
+6,Z00.12.00,T,"Inhalation von Stickstoffmonoxid, Dauer der Behandlung bis 48 Stunden",oui,,0,,6,,"Inhalation von Stickstoffmonoxid, Dauer der Behandlung bis 48 Stunden","Inhalational Nitric Oxide, Treatment Duration Up to 48 Hours |Nitric oxide (NO) is a gaseous molecule with potent vasodilatory properties. Inhaled nitric oxide is used in the treatment of pulmonary hypertension and respiratory distress syndrome in neonates. It works by relaxing blood vessels in the lungs, improving blood flow and reducing pressure within the pulmonary arteries. The duration of treatment can vary depending on the patient's condition but typically lasts up to 48 hours.  
+
+
+","Inhalational Nitric Oxide, Treatment Duration Up to 48 Hours","Nitric oxide (NO) is a gaseous molecule with potent vasodilatory properties. Inhaled nitric oxide is used in the treatment of pulmonary hypertension and respiratory distress syndrome in neonates. It works by relaxing blood vessels in the lungs, improving blood flow and reducing pressure within the pulmonary arteries. The duration of treatment can vary depending on the patient's condition but typically lasts up to 48 hours."
+6,Z00.12.01,T,"Inhalation von Stickstoffmonoxid, Dauer der Behandlung von mehr als 48 Stunden bis 96 Stunden",oui,,0,,6,,"Inhalation von Stickstoffmonoxid, Dauer der Behandlung von mehr als 48 Stunden bis 96 Stunden","Inhalation of Nitric Oxide, Treatment Duration of More Than 48 Hours to 96 Hours |  Nitric oxide (NO) is a gaseous molecule with potent vasodilatory properties. Inhaled nitric oxide is used clinically as a pulmonary vasodilator in neonates and children with respiratory distress syndrome (RDS), persistent pulmonary hypertension of the newborn (PPHN), or other conditions characterized by pulmonary vasoconstriction. The duration of treatment typically ranges from 48 to 96 hours, depending on the severity of the condition and the patient's response to therapy.  
+
+
+","Inhalation of Nitric Oxide, Treatment Duration of More Than 48 Hours to 96 Hours","Nitric oxide (NO) is a gaseous molecule with potent vasodilatory properties. Inhaled nitric oxide is used clinically as a pulmonary vasodilator in neonates and children with respiratory distress syndrome (RDS), persistent pulmonary hypertension of the newborn (PPHN), or other conditions characterized by pulmonary vasoconstriction. The duration of treatment typically ranges from 48 to 96 hours, depending on the severity of the condition and the patient's response to therapy."
+6,Z00.12.02,T,"Inhalation von Stickstoffmonoxid, Dauer der Behandlung von mehr als 96 Stunden",oui,,0,,6,,"Inhalation von Stickstoffmonoxid, Dauer der Behandlung von mehr als 96 Stunden","Inhalation of Nitric Oxide, Treatment Duration Exceeding 96 Hours |  The administration of nitric oxide (NO) gas through inhalation for a period longer than 96 hours. Nitric oxide is a potent vasodilator, meaning it widens blood vessels. It's used in clinical settings to improve oxygenation in patients with respiratory distress, particularly those with pulmonary hypertension or acute respiratory distress syndrome (ARDS).  
+","Inhalation of Nitric Oxide, Treatment Duration Exceeding 96 Hours","The administration of nitric oxide (NO) gas through inhalation for a period longer than 96 hours. Nitric oxide is a potent vasodilator, meaning it widens blood vessels. It's used in clinical settings to improve oxygenation in patients with respiratory distress, particularly those with pulmonary hypertension or acute respiratory distress syndrome (ARDS)."
+4,Z00.16,T,Unter Druck Behandlung von venösem Bypass-Graft [Conduit] mit Pharmazeutikum,oui,,0,,4,,Unter Druck Behandlung von venösem Bypass-Graft [Conduit] mit Pharmazeutikum,"Treatment under pressure of a venous bypass graft [conduit] with pharmaceutical |  A procedure where medication is delivered directly into a vein bypass graft (a conduit) while it's under pressure. This helps ensure the medication reaches the target area effectively and can be used to treat conditions like thrombosis or inflammation within the graft. 
+
+
+",Treatment under pressure of a venous bypass graft [conduit] with pharmaceutical,A procedure where medication is delivered directly into a vein bypass graft (a conduit) while it's under pressure. This helps ensure the medication reaches the target area effectively and can be used to treat conditions like thrombosis or inflammation within the graft.
+4,Z00.16,B,Ex vivo Gefässbehandlung,non,,0,,4,,Ex vivo Gefässbehandlung,"Ex Vivo Vascular Treatment|A medical procedure where blood vessels are treated outside the body (ex vivo) before being reimplanted. This technique is often used in situations where direct treatment of blood vessels within the body is difficult or risky. 
+
+
+",Ex Vivo Vascular Treatment,A medical procedure where blood vessels are treated outside the body (ex vivo) before being reimplanted. This technique is often used in situations where direct treatment of blood vessels within the body is difficult or risky.
+4,Z00.16,B,Hyperbar behandelter Graft [Conduit],non,,0,,4,,Hyperbar behandelter Graft [Conduit],"Hyperbaric Treated Graft (Conduit)|A graft (tissue transplant) that has been treated in a hyperbaric chamber. Hyperbaric oxygen therapy involves breathing pure oxygen at increased atmospheric pressure. This treatment can promote tissue healing and reduce inflammation, making it potentially beneficial for grafts used in surgical procedures. 
+
+
+",Hyperbaric Treated Graft (Conduit),"A graft (tissue transplant) that has been treated in a hyperbaric chamber. Hyperbaric oxygen therapy involves breathing pure oxygen at increased atmospheric pressure. This treatment can promote tissue healing and reduce inflammation, making it potentially beneficial for grafts used in surgical procedures."
+4,Z00.17,T,Infusion einer vasopressorischen Substanz,oui,,0,,4,,Infusion einer vasopressorischen Substanz,"Infusion of a Vasopressor Substance|The administration of a medication that constricts blood vessels (vasoconstriction) through an intravenous infusion. Vasopressors are used to increase blood pressure in cases of hypotension (low blood pressure). 
+
+
+",Infusion of a Vasopressor Substance,The administration of a medication that constricts blood vessels (vasoconstriction) through an intravenous infusion. Vasopressors are used to increase blood pressure in cases of hypotension (low blood pressure).
+4,Z00.19,T,Unterbrechung der Blut-Hirn-Schranke [BHS] mittels Infusion,oui,,0,,4,,Unterbrechung der Blut-Hirn-Schranke [BHS] mittels Infusion,"Disruption of the Blood-Brain Barrier (BBB) by Infusion | The blood-brain barrier (BBB) is a highly selective semipermeable border of endothelial cells that separates circulating blood from the brain and extracellular fluid in the central nervous system (CNS). Disrupting this barrier allows substances to pass through that would normally be blocked, potentially for therapeutic purposes or as a result of disease. Infusion refers to the administration of a substance into the bloodstream via a vein. 
+
+
+",Disruption of the Blood-Brain Barrier (BBB) by Infusion,"The blood-brain barrier (BBB) is a highly selective semipermeable border of endothelial cells that separates circulating blood from the brain and extracellular fluid in the central nervous system (CNS). Disrupting this barrier allows substances to pass through that would normally be blocked, potentially for therapeutic purposes or as a result of disease. Infusion refers to the administration of a substance into the bloodstream via a vein."
+4,Z00.19,B,Infusion einer Lösung zur Unterbrechung der Blut-Hirn-Schranke,non,,0,,4,,Infusion einer Lösung zur Unterbrechung der Blut-Hirn-Schranke,"Infusion of a solution to disrupt the blood-brain barrier|The administration of a fluid containing substances designed to temporarily weaken the blood-brain barrier (BBB). The BBB is a protective layer of cells that regulates the passage of molecules between the bloodstream and the brain. Disrupting it allows for the delivery of therapeutic agents or diagnostic tools that would otherwise be unable to cross this barrier. 
+
+
+",Infusion of a solution to disrupt the blood-brain barrier,The administration of a fluid containing substances designed to temporarily weaken the blood-brain barrier (BBB). The BBB is a protective layer of cells that regulates the passage of molecules between the bloodstream and the brain. Disrupting it allows for the delivery of therapeutic agents or diagnostic tools that would otherwise be unable to cross this barrier.
+4,Z00.19,S,Chemotherapie (99.25.5-),non,,0,,4,,Chemotherapie ,"Chemotherapy|A type of cancer treatment that uses drugs to destroy cancer cells.  It can be administered intravenously, orally, or topically. Chemotherapy is often used in combination with other treatments, such as surgery or radiation therapy.
+
+
+",Chemotherapy,"A type of cancer treatment that uses drugs to destroy cancer cells.  It can be administered intravenously, orally, or topically. Chemotherapy is often used in combination with other treatments, such as surgery or radiation therapy."
+4,Z00.19,X,Sonstige Perfusion (39.97.-),non,,0,,4,,Sonstige Perfusion ,"Other Perfusion |  Refers to blood flow or circulation to tissues or organs other than those typically assessed in routine clinical examinations. This term is often used in surgical contexts to describe the adequacy of blood supply to areas beyond the primary surgical site.
+
+
+",Other Perfusion,Refers to blood flow or circulation to tissues or organs other than those typically assessed in routine clinical examinations. This term is often used in surgical contexts to describe the adequacy of blood supply to areas beyond the primary surgical site.
+3,Z00.2,T,Intravaskuläre Bildgebung von Blutgefässen,non,,0,,3,,Intravaskuläre Bildgebung von Blutgefässen,"Intravascular Imaging of Blood Vessels|A medical imaging technique that involves visualizing blood vessels from within. This is typically achieved by inserting a catheter with a miniature camera or sensor into the bloodstream, allowing for direct visualization of the vessel walls and lumen (the space inside the vessel).  It's used to diagnose and assess various vascular conditions, such as atherosclerosis, aneurysms, and stenosis. 
+
+
+",Intravascular Imaging of Blood Vessels,"A medical imaging technique that involves visualizing blood vessels from within. This is typically achieved by inserting a catheter with a miniature camera or sensor into the bloodstream, allowing for direct visualization of the vessel walls and lumen (the space inside the vessel).  It's used to diagnose and assess various vascular conditions, such as atherosclerosis, aneurysms, and stenosis."
+3,Z00.2,B,Endovaskulärer Ultraschall,non,,0,,3,,Endovaskulärer Ultraschall,"Endovascular Ultrasound|A type of ultrasound imaging that is performed inside blood vessels. A small ultrasound probe is inserted into a blood vessel, typically through a catheter, to visualize the vessel walls and any abnormalities within the vessel lumen (the space inside the blood vessel). This technique is used to diagnose and monitor various vascular conditions, such as atherosclerosis, aneurysms, and peripheral artery disease. 
+
+
+",Endovascular Ultrasound,"A type of ultrasound imaging that is performed inside blood vessels. A small ultrasound probe is inserted into a blood vessel, typically through a catheter, to visualize the vessel walls and any abnormalities within the vessel lumen (the space inside the blood vessel). This technique is used to diagnose and monitor various vascular conditions, such as atherosclerosis, aneurysms, and peripheral artery disease."
+3,Z00.2,B,Intravaskuläre Bildgebung (Ultraschall) von Blutgefässen,non,,0,,3,,Intravaskuläre Bildgebung  von Blutgefässen,"Intravascular Imaging of Blood Vessels|A medical imaging technique that involves visualizing blood vessels from within. This is typically achieved by inserting a catheter with a miniature camera or sensor into the bloodstream, allowing for direct visualization of the vessel walls and lumen (the space inside the vessel).  It's used to diagnose and assess various vascular conditions, such as atherosclerosis, aneurysms, and stenosis. 
+
+
+",Intravascular Imaging of Blood Vessels,"A medical imaging technique that involves visualizing blood vessels from within. This is typically achieved by inserting a catheter with a miniature camera or sensor into the bloodstream, allowing for direct visualization of the vessel walls and lumen (the space inside the vessel).  It's used to diagnose and assess various vascular conditions, such as atherosclerosis, aneurysms, and stenosis."
+3,Z00.2,B,Intravaskulärer Ultraschall [IVUS],non,,0,,3,,Intravaskulärer Ultraschall [IVUS],"Intravascular Ultrasound [IVUS]|A type of ultrasound imaging that uses a miniature transducer mounted on a catheter to visualize the inside of blood vessels. It provides real-time cross-sectional images of the vessel wall, plaque buildup (atherosclerosis), and other vascular structures. IVUS is often used during angioplasty procedures to guide stent placement and assess the effectiveness of treatment. 
+
+
+",Intravascular Ultrasound [IVUS],"A type of ultrasound imaging that uses a miniature transducer mounted on a catheter to visualize the inside of blood vessels. It provides real-time cross-sectional images of the vessel wall, plaque buildup (atherosclerosis), and other vascular structures. IVUS is often used during angioplasty procedures to guide stent placement and assess the effectiveness of treatment."
+3,Z00.2,N,Echtzeitige Bildgebung von Blutgefässlumen mittels Schallwellen,non,,0,,3,,Echtzeitige Bildgebung von Blutgefässlumen mittels Schallwellen,"Real-Time Imaging of Blood Vessels Using Ultrasound|  A medical imaging technique that uses high-frequency sound waves (ultrasound) to create real-time images of blood vessels. This allows doctors to visualize blood flow and identify any abnormalities, such as blockages or aneurysms. 
+
+
+",Real-Time Imaging of Blood Vessels Using Ultrasound,"A medical imaging technique that uses high-frequency sound waves (ultrasound) to create real-time images of blood vessels. This allows doctors to visualize blood flow and identify any abnormalities, such as blockages or aneurysms."
+3,Z00.2,S,Jede gleichzeitige diagnostische oder therapeutische Massnahme,non,,0,,3,,Jede gleichzeitige diagnostische oder therapeutische Massnahme,"Every simultaneous diagnostic or therapeutic measure| Any medical procedure performed at the same time as another, whether it is for diagnosis or treatment. 
+
+
+",Every simultaneous diagnostic or therapeutic measure,"Any medical procedure performed at the same time as another, whether it is for diagnosis or treatment."
+3,Z00.2,X,"Adjunktiv vaskuläre Massnahme, Anzahl von behandelten Gefässen (00.40-00.43)",non,,0,,3,,"Adjunktiv vaskuläre Massnahme, Anzahl von behandelten Gefässen ","Adjunctive Vascular Procedure, Number of Treated Vessels | An additional procedure performed to improve blood flow in a specific area, often in conjunction with another surgical or medical treatment. The number of vessels treated refers to the quantity of blood vessels that were addressed during this adjunctive procedure.  
+
+
+","Adjunctive Vascular Procedure, Number of Treated Vessels","An additional procedure performed to improve blood flow in a specific area, often in conjunction with another surgical or medical treatment. The number of vessels treated refers to the quantity of blood vessels that were addressed during this adjunctive procedure."
+3,Z00.2,X,Diagnostische Massnahmen an Blutgefässen (38.21-38.29),non,,0,,3,,Diagnostische Massnahmen an Blutgefässen ,"Diagnostic Measures on Blood Vessels| Procedures performed to evaluate the structure and function of blood vessels. This can include a variety of techniques such as angiography (imaging of blood vessels using contrast dye), duplex ultrasound (combining sound waves and imaging to assess blood flow), and other non-invasive or minimally invasive procedures. 
+
+
+",Diagnostic Measures on Blood Vessels,"Procedures performed to evaluate the structure and function of blood vessels. This can include a variety of techniques such as angiography (imaging of blood vessels using contrast dye), duplex ultrasound (combining sound waves and imaging to assess blood flow), and other non-invasive or minimally invasive procedures."
+3,Z00.2,X,Diagnostischer Ultraschall des peripheren vaskulären Systems (88.77),non,,0,,3,,Diagnostischer Ultraschall des peripheren vaskulären Systems ,"Diagnostic Ultrasound of the Peripheral Vascular System |  Ultrasound imaging used to examine blood vessels outside of the heart and brain. This can include arteries and veins in the arms, legs, neck, and abdomen. It helps visualize blood flow, identify blockages or narrowing (stenosis), and assess the health of these vessels. 
+
+
+",Diagnostic Ultrasound of the Peripheral Vascular System,"Ultrasound imaging used to examine blood vessels outside of the heart and brain. This can include arteries and veins in the arms, legs, neck, and abdomen. It helps visualize blood flow, identify blockages or narrowing (stenosis), and assess the health of these vessels."
+3,Z00.2,X,Intravaskuläre Bildgebung der Koronargefässe (37.2A.1),non,,0,,3,,Intravaskuläre Bildgebung der Koronargefässe ,"Intravascular Imaging of Coronary Arteries | A minimally invasive imaging technique used to visualize the inside of coronary arteries. It involves threading a catheter with a tiny camera or sensor through an artery in the groin or arm, guiding it to the heart, and capturing real-time images of the coronary vessels. This allows for detailed visualization of plaque buildup, narrowing, and other abnormalities within the arteries, aiding in diagnosis and treatment planning for coronary artery disease. 
+
+
+",Intravascular Imaging of Coronary Arteries,"A minimally invasive imaging technique used to visualize the inside of coronary arteries. It involves threading a catheter with a tiny camera or sensor through an artery in the groin or arm, guiding it to the heart, and capturing real-time images of the coronary vessels. This allows for detailed visualization of plaque buildup, narrowing, and other abnormalities within the arteries, aiding in diagnosis and treatment planning for coronary artery disease."
+3,Z00.2,X,Magnetic Resonance Imaging [MRI] (88.91.- - 88.97.-),non,,0,,3,,Magnetic Resonance Imaging [MRI] ,"Magnetic Resonance Imaging (MRI)|A medical imaging technique that uses a strong magnetic field and radio waves to create detailed images of the organs and tissues in your body. MRI doesn't use ionizing radiation like X-rays or CT scans, making it a safer option for repeated imaging.  It is particularly useful for visualizing soft tissues such as the brain, spinal cord, muscles, ligaments, and cartilage. 
+
+
+",Magnetic Resonance Imaging (MRI),"A medical imaging technique that uses a strong magnetic field and radio waves to create detailed images of the organs and tissues in your body. MRI doesn't use ionizing radiation like X-rays or CT scans, making it a safer option for repeated imaging.  It is particularly useful for visualizing soft tissues such as the brain, spinal cord, muscles, ligaments, and cartilage."
+3,Z00.2,X,Therapeutischer Ultraschall (00.01-00.09),non,,0,,3,,Therapeutischer Ultraschall ,"Therapeutic Ultrasound|The application of ultrasound waves to treat medical conditions.  This involves using high-frequency sound waves to generate heat within tissues, promoting healing or reducing inflammation. Therapeutic ultrasound is often used in physical therapy to manage pain, reduce swelling, and improve tissue mobility.
+
+
+",Therapeutic Ultrasound,"The application of ultrasound waves to treat medical conditions.  This involves using high-frequency sound waves to generate heat within tissues, promoting healing or reducing inflammation. Therapeutic ultrasound is often used in physical therapy to manage pain, reduce swelling, and improve tissue mobility."
+4,Z00.21,T,Intravaskuläre Bildgebung von extrakraniellen Hirngefässen,oui,,0,,4,Lateral,Intravaskuläre Bildgebung von extrakraniellen Hirngefässen,"Intravascular Imaging of Extracranial Cerebral Vessels|A medical imaging technique that visualizes blood vessels outside the skull (extracranial) using a contrast agent injected into the bloodstream. This allows for detailed visualization of arteries and veins supplying blood to the brain, helping to diagnose conditions like aneurysms, stenosis, or vascular malformations. 
+
+
+",Intravascular Imaging of Extracranial Cerebral Vessels,"A medical imaging technique that visualizes blood vessels outside the skull (extracranial) using a contrast agent injected into the bloodstream. This allows for detailed visualization of arteries and veins supplying blood to the brain, helping to diagnose conditions like aneurysms, stenosis, or vascular malformations."
+4,Z00.21,B,A. carotis communis und ihre Äste,non,,0,,4,,A. carotis communis und ihre Äste,"Common Carotid Artery and its Branches|The common carotid artery is a major blood vessel that supplies oxygenated blood to the head and neck. It branches into two internal carotid arteries (ICA) which supply the brain, and two external carotid arteries (ECA) which supply the face, scalp, and neck. 
+
+
+",Common Carotid Artery and its Branches,"The common carotid artery is a major blood vessel that supplies oxygenated blood to the head and neck. It branches into two internal carotid arteries (ICA) which supply the brain, and two external carotid arteries (ECA) which supply the face, scalp, and neck."
+4,Z00.21,B,"Intravaskulärer Ultraschall [IVUS], extrakranielle Hirngefässe",non,,0,,4,,"Intravaskulärer Ultraschall [IVUS], extrakranielle Hirngefässe","Intravascular Ultrasound (IVUS), Extracranial Cerebral Vessels| Intravascular ultrasound (IVUS) is a minimally invasive imaging technique that uses high-frequency sound waves to visualize the inside of blood vessels. It involves inserting a tiny ultrasound transducer on a catheter into the vessel, allowing for real-time imaging of the vessel walls and lumen.  Extracranial cerebral vessels refer to the blood vessels in the brain that lie outside the skull. 
+
+
+","Intravascular Ultrasound (IVUS), Extracranial Cerebral Vessels","Intravascular ultrasound (IVUS) is a minimally invasive imaging technique that uses high-frequency sound waves to visualize the inside of blood vessels. It involves inserting a tiny ultrasound transducer on a catheter into the vessel, allowing for real-time imaging of the vessel walls and lumen.  Extracranial cerebral vessels refer to the blood vessels in the brain that lie outside the skull."
+4,Z00.21,X,Diagnostischer (nicht-invasiver) Ultraschall von Kopf und Hals (88.71.-),non,,0,,4,,Diagnostischer  Ultraschall von Kopf und Hals ,"Diagnostic Ultrasound of Head and Neck| Ultrasonography used to examine the structures in the head and neck region. This non-invasive imaging technique uses high-frequency sound waves to create images of tissues, organs, and blood vessels in this area. It can be used to diagnose a variety of conditions, such as thyroid nodules, salivary gland disorders, lymph node abnormalities, and vascular issues. 
+
+
+",Diagnostic Ultrasound of Head and Neck,"Ultrasonography used to examine the structures in the head and neck region. This non-invasive imaging technique uses high-frequency sound waves to create images of tissues, organs, and blood vessels in this area. It can be used to diagnose a variety of conditions, such as thyroid nodules, salivary gland disorders, lymph node abnormalities, and vascular issues."
+4,Z00.22,T,Intravaskuläre Bildgebung von intrathorakalen Gefässen,oui,,0,,4,,Intravaskuläre Bildgebung von intrathorakalen Gefässen,"Intravascular Imaging of Intrathoracic Vessels|A medical imaging technique that uses a catheter with a small camera or sensor to visualize blood vessels within the chest cavity (intrathoracic). This allows for detailed visualization and assessment of the structure and function of these vessels, which can be helpful in diagnosing and managing various conditions such as aneurysms, blockages, or tumors. 
+
+
+",Intravascular Imaging of Intrathoracic Vessels,"A medical imaging technique that uses a catheter with a small camera or sensor to visualize blood vessels within the chest cavity (intrathoracic). This allows for detailed visualization and assessment of the structure and function of these vessels, which can be helpful in diagnosing and managing various conditions such as aneurysms, blockages, or tumors."
+4,Z00.22,B,Aorta und Aortenbogen,non,,0,,4,,Aorta und Aortenbogen,"Aorta and Aortic Arch|The aorta is the main artery in the body that carries oxygenated blood from the heart to the rest of the body. The aortic arch is the curved portion of the aorta that begins at the left ventricle of the heart and extends upward, then curves backward before descending into the chest cavity. 
+
+
+",Aorta and Aortic Arch,"The aorta is the main artery in the body that carries oxygenated blood from the heart to the rest of the body. The aortic arch is the curved portion of the aorta that begins at the left ventricle of the heart and extends upward, then curves backward before descending into the chest cavity."
+4,Z00.22,B,"Intravaskulärer Ultraschall [IVUS], intrathorakale Gefässe",non,,0,,4,,"Intravaskulärer Ultraschall [IVUS], intrathorakale Gefässe","Intravascular Ultrasound (IVUS) | A type of ultrasound imaging that uses a catheter with a miniature transducer to visualize blood vessels from within.  | Intrathoracic Vessels | Blood vessels located within the chest cavity. 
+
+
+",Intravascular Ultrasound (IVUS),A type of ultrasound imaging that uses a catheter with a miniature transducer to visualize blood vessels from within.  | Intrathoracic Vessels | Blood vessels located within the chest cavity.
+4,Z00.22,B,Vena cava (superior) (inferior),non,,0,,4,,Vena cava  ,"Superior Vena Cava|The superior vena cava (SVC) is a large vein that carries deoxygenated blood from the upper body back to the heart. It receives blood from veins in the head, neck, arms, and chest. 
+
+
+",Superior Vena Cava,"The superior vena cava (SVC) is a large vein that carries deoxygenated blood from the upper body back to the heart. It receives blood from veins in the head, neck, arms, and chest."
+4,Z00.22,X,Diagnostischer (nicht-invasiver) Ultraschall anderer Thoraxlokalisationen (88.73.-),non,,0,,4,,Diagnostischer  Ultraschall anderer Thoraxlokalisationen ,"Diagnostic Ultrasound of Other Thoracic Locations| Diagnostic ultrasound used to examine various structures within the chest cavity besides the heart. This can include examining the lungs, pleural space (the area between the lungs and chest wall), lymph nodes, and other soft tissues in the chest.  
+
+
+",Diagnostic Ultrasound of Other Thoracic Locations,"Diagnostic ultrasound used to examine various structures within the chest cavity besides the heart. This can include examining the lungs, pleural space (the area between the lungs and chest wall), lymph nodes, and other soft tissues in the chest."
+4,Z00.23,T,Intravaskuläre Bildgebung von peripheren Gefässen,oui,,0,,4,,Intravaskuläre Bildgebung von peripheren Gefässen,"Intravascular Imaging of Peripheral Vessels|A medical imaging technique that involves inserting a catheter with a miniature camera or sensor into blood vessels to visualize their inner walls and structure. This allows for detailed examination of peripheral arteries and veins, helping to diagnose conditions such as atherosclerosis, aneurysms, and vascular malformations. 
+
+
+",Intravascular Imaging of Peripheral Vessels,"A medical imaging technique that involves inserting a catheter with a miniature camera or sensor into blood vessels to visualize their inner walls and structure. This allows for detailed examination of peripheral arteries and veins, helping to diagnose conditions such as atherosclerosis, aneurysms, and vascular malformations."
+4,Z00.23,B,"Bildgebung von Arm-, Beingefäss(en)",non,,0,,4,,"Bildgebung von Arm-, Beingefäss","Imaging of Arm and Leg Vessels|  Medical imaging techniques used to visualize the blood vessels in the arms and legs. This can include various modalities such as ultrasound (duplex or triplex), magnetic resonance angiography (MRA), or computed tomography angiography (CTA). These techniques help assess blood flow, identify blockages or abnormalities, and diagnose conditions like peripheral artery disease (PAD) or deep vein thrombosis (DVT). 
+
+
+",Imaging of Arm and Leg Vessels,"Medical imaging techniques used to visualize the blood vessels in the arms and legs. This can include various modalities such as ultrasound (duplex or triplex), magnetic resonance angiography (MRA), or computed tomography angiography (CTA). These techniques help assess blood flow, identify blockages or abnormalities, and diagnose conditions like peripheral artery disease (PAD) or deep vein thrombosis (DVT)."
+4,Z00.23,B,"Intravaskulärer Ultraschall [IVUS], periphere Gefässe",non,,0,,4,,"Intravaskulärer Ultraschall [IVUS], periphere Gefässe","Intravascular Ultrasound (IVUS), Peripheral Vessels|  A type of ultrasound imaging that uses a miniature transducer mounted on a catheter to visualize the inside of blood vessels. It is particularly useful for evaluating peripheral arteries and veins, providing detailed images of vessel walls, plaque buildup, and other abnormalities. 
+
+
+","Intravascular Ultrasound (IVUS), Peripheral Vessels","A type of ultrasound imaging that uses a miniature transducer mounted on a catheter to visualize the inside of blood vessels. It is particularly useful for evaluating peripheral arteries and veins, providing detailed images of vessel walls, plaque buildup, and other abnormalities."
+4,Z00.23,X,Diagnostischer Ultraschall (nicht-invasiv) des peripheren vaskulären Systems (88.77),non,,0,,4,,Diagnostischer Ultraschall  des peripheren vaskulären Systems ,"Diagnostic Ultrasound of the Peripheral Vascular System |Ultrasound imaging used to evaluate blood vessels outside of the heart and brain. This can include arteries and veins in the arms, legs, neck, and abdomen. It helps detect blockages, aneurysms, and other vascular abnormalities.  
+
+
+",Diagnostic Ultrasound of the Peripheral Vascular System,"Ultrasound imaging used to evaluate blood vessels outside of the heart and brain. This can include arteries and veins in the arms, legs, neck, and abdomen. It helps detect blockages, aneurysms, and other vascular abnormalities."
+4,Z00.25,T,Intravaskuläre Bildgebung der Nierengefässe,oui,,0,,4,Lateral,Intravaskuläre Bildgebung der Nierengefässe,"Intravascular Imaging of Renal Vessels|A medical imaging technique that allows visualization of blood vessels within the kidneys. It involves injecting a contrast agent into the bloodstream, which highlights the renal arteries, arterioles, and capillaries during imaging procedures such as angiography or computed tomography (CT). This technique helps diagnose conditions affecting renal blood flow, such as stenosis, aneurysms, or vascular malformations. 
+
+
+",Intravascular Imaging of Renal Vessels,"A medical imaging technique that allows visualization of blood vessels within the kidneys. It involves injecting a contrast agent into the bloodstream, which highlights the renal arteries, arterioles, and capillaries during imaging procedures such as angiography or computed tomography (CT). This technique helps diagnose conditions affecting renal blood flow, such as stenosis, aneurysms, or vascular malformations."
+4,Z00.25,B,"Intravaskulärer Ultraschall [IVUS], Nierengefässe",non,,0,,4,,"Intravaskulärer Ultraschall [IVUS], Nierengefässe","Intravascular Ultrasound (IVUS) | A type of ultrasound imaging that uses a catheter with a miniature transducer to visualize the inside of blood vessels.  | Kidney Stones | Hard deposits made of minerals and salts that form inside the kidneys. 
+
+
+",Intravascular Ultrasound (IVUS),A type of ultrasound imaging that uses a catheter with a miniature transducer to visualize the inside of blood vessels.  | Kidney Stones | Hard deposits made of minerals and salts that form inside the kidneys.
+4,Z00.25,B,Nierenarterie,non,,0,,4,,Nierenarterie,"Renal Artery|The renal artery is a blood vessel that carries oxygenated blood from the aorta to each kidney.  It branches off from the abdominal aorta and delivers vital nutrients and oxygen to the kidneys, which are responsible for filtering waste products from the blood. 
+
+
+",Renal Artery,"The renal artery is a blood vessel that carries oxygenated blood from the aorta to each kidney.  It branches off from the abdominal aorta and delivers vital nutrients and oxygen to the kidneys, which are responsible for filtering waste products from the blood."
+4,Z00.25,X,Diagnostischer Ultraschall (nicht invasiv) der Harnwege (88.75.-),non,,0,,4,,Diagnostischer Ultraschall  der Harnwege ,"Diagnostic Ultrasound of the Urinary Tract|Ultrasound imaging to diagnose conditions affecting the urinary tract. This non-invasive procedure uses high-frequency sound waves to create images of the kidneys, ureters, bladder, and urethra. It helps visualize their size, shape, and any abnormalities like stones, tumors, or blockages. 
+
+
+",Diagnostic Ultrasound of the Urinary Tract,"Ultrasound imaging to diagnose conditions affecting the urinary tract. This non-invasive procedure uses high-frequency sound waves to create images of the kidneys, ureters, bladder, and urethra. It helps visualize their size, shape, and any abnormalities like stones, tumors, or blockages."
+4,Z00.28,T,Intravaskuläre Bildgebung sonstiger bezeichneter Gefässe,oui,,0,,4,,Intravaskuläre Bildgebung sonstiger bezeichneter Gefässe,"Intravascular Imaging of Other Specified Vessels|A medical imaging technique that allows visualization of blood vessels other than those typically examined in standard procedures. This can involve using contrast agents and specialized imaging modalities like angiography or ultrasound to assess the structure and function of arteries, veins, or lymphatic vessels in various parts of the body. 
+
+
+",Intravascular Imaging of Other Specified Vessels,"A medical imaging technique that allows visualization of blood vessels other than those typically examined in standard procedures. This can involve using contrast agents and specialized imaging modalities like angiography or ultrasound to assess the structure and function of arteries, veins, or lymphatic vessels in various parts of the body."
+3,Z00.3,T,Computergesteuerte Chirurgie,non,,0,,3,,Computergesteuerte Chirurgie,"Computer-Assisted Surgery|Surgical procedures enhanced by computer technology. This involves using computers to plan, guide, and execute surgical operations with increased precision, control, and visualization. Examples include robotic surgery systems that allow surgeons to operate remotely with greater dexterity and minimally invasive techniques guided by 3D imaging.  
+
+
+",Computer-Assisted Surgery,"Surgical procedures enhanced by computer technology. This involves using computers to plan, guide, and execute surgical operations with increased precision, control, and visualization. Examples include robotic surgery systems that allow surgeons to operate remotely with greater dexterity and minimally invasive techniques guided by 3D imaging."
+3,Z00.3,B,Bildfreie Navigation,non,,0,,3,,Bildfreie Navigation,"Image-Free Navigation|A surgical navigation system that does not rely on pre-operative imaging (like CT or MRI) to guide the surgeon during a procedure.  Instead, it may use other sensors like electromagnetic tracking or acoustic signals to determine the position of instruments and tissues in real time. 
+
+
+",Image-Free Navigation,"A surgical navigation system that does not rely on pre-operative imaging (like CT or MRI) to guide the surgeon during a procedure.  Instead, it may use other sensors like electromagnetic tracking or acoustic signals to determine the position of instruments and tissues in real time."
+3,Z00.3,B,Bildgesteuerte Chirurgie,non,,0,,3,,Bildgesteuerte Chirurgie,"Image-Guided Surgery|Surgical procedures that utilize real-time imaging to guide the surgeon's actions. This involves using various imaging modalities, such as X-rays, CT scans, MRI, or ultrasound, to provide a clear visualization of the surgical site and surrounding tissues during the operation.  This enhanced visualization allows for greater precision, accuracy, and control, minimizing tissue damage and improving patient outcomes. 
+
+
+",Image-Guided Surgery,"Surgical procedures that utilize real-time imaging to guide the surgeon's actions. This involves using various imaging modalities, such as X-rays, CT scans, MRI, or ultrasound, to provide a clear visualization of the surgical site and surrounding tissues during the operation.  This enhanced visualization allows for greater precision, accuracy, and control, minimizing tissue damage and improving patient outcomes."
+3,Z00.3,B,CT-freie Navigation,non,,0,,3,,CT-freie Navigation,"CT-Free Navigation|Surgical navigation that does not rely on pre-operative computed tomography (CT) scans. This approach utilizes other imaging modalities or real-time data to guide surgical instruments and provide surgeons with a 3D view of the operative field during surgery.  
+
+
+",CT-Free Navigation,Surgical navigation that does not rely on pre-operative computed tomography (CT) scans. This approach utilizes other imaging modalities or real-time data to guide surgical instruments and provide surgeons with a 3D view of the operative field during surgery.
+3,Z00.3,N,Folgende Kodes sind Zusatzkodes. Der spezifische Eingriff ist separat zu kodieren.,non,,0,,3,,Folgende Kodes sind Zusatzkodes. Der spezifische Eingriff ist separat zu kodieren.,"The following codes are add-on codes. The specific procedure should be coded separately. | Add-on codes in medical billing are used to describe additional procedures or services performed during a primary procedure. They are not standalone codes and require the corresponding primary code for accurate reimbursement. 
+
+
+",The following codes are add-on codes. The specific procedure should be coded separately.,Add-on codes in medical billing are used to describe additional procedures or services performed during a primary procedure. They are not standalone codes and require the corresponding primary code for accurate reimbursement.
+3,Z00.3,S,Diagnostische oder therapeutische Massnahme,non,,0,,3,,Diagnostische oder therapeutische Massnahme,"Diagnostic or Therapeutic Measure|A medical intervention that can be either diagnostic (to identify a condition) or therapeutic (to treat a condition). 
+
+
+",Diagnostic or Therapeutic Measure,A medical intervention that can be either diagnostic (to identify a condition) or therapeutic (to treat a condition).
+4,Z00.31,T,Computergesteuerte Chirurgie mit CT/CTA,complement,,0,,4,,Computergesteuerte Chirurgie mit CT/CTA,"Computer-Assisted Surgery with CT/CTA | Surgical procedures guided by computer software using real-time imaging data from computed tomography (CT) or computed tomography angiography (CTA).  CT scans provide detailed cross-sectional images of the body, while CTA adds contrast material to visualize blood vessels. This technology allows surgeons to plan and execute complex surgeries with greater precision and accuracy. 
+
+
+",Computer-Assisted Surgery with CT/CTA,"Surgical procedures guided by computer software using real-time imaging data from computed tomography (CT) or computed tomography angiography (CTA).  CT scans provide detailed cross-sectional images of the body, while CTA adds contrast material to visualize blood vessels. This technology allows surgeons to plan and execute complex surgeries with greater precision and accuracy."
+4,Z00.32,T,Computergesteuerte Chirurgie mit MR/MRA,complement,,0,,4,,Computergesteuerte Chirurgie mit MR/MRA,"Computer-Assisted Surgery with MRI/MRA |  Surgical procedures guided by real-time magnetic resonance imaging (MRI) or magnetic resonance angiography (MRA). This technology allows surgeons to visualize anatomical structures in detail during surgery, enhancing precision and minimizing invasiveness. MRA specifically focuses on visualizing blood vessels within the body. 
+
+
+",Computer-Assisted Surgery with MRI/MRA,"Surgical procedures guided by real-time magnetic resonance imaging (MRI) or magnetic resonance angiography (MRA). This technology allows surgeons to visualize anatomical structures in detail during surgery, enhancing precision and minimizing invasiveness. MRA specifically focuses on visualizing blood vessels within the body."
+4,Z00.33,T,Computergesteuerte Chirurgie mit Fluoroskopie,complement,,0,,4,,Computergesteuerte Chirurgie mit Fluoroskopie,"Computer-Assisted Surgery with Fluoroscopy|A surgical procedure where a computer system assists the surgeon in performing the operation, guided by real-time X-ray images (fluoroscopy). This technology allows for greater precision and control during surgery, minimizing invasiveness and improving patient outcomes. 
+
+
+",Computer-Assisted Surgery with Fluoroscopy,"A surgical procedure where a computer system assists the surgeon in performing the operation, guided by real-time X-ray images (fluoroscopy). This technology allows for greater precision and control during surgery, minimizing invasiveness and improving patient outcomes."
+4,Z00.34,T,Bildfreie computergesteuerte Chirurgie,complement,,0,,4,,Bildfreie computergesteuerte Chirurgie,"Image-Free Computer-Assisted Surgery|A surgical approach that relies on computer algorithms and sensors to guide surgical instruments without relying on real-time visual feedback from cameras or monitors.  This technique often uses haptic feedback (touch sensations) to provide surgeons with information about the tissue they are manipulating. 
+
+
+",Image-Free Computer-Assisted Surgery,A surgical approach that relies on computer algorithms and sensors to guide surgical instruments without relying on real-time visual feedback from cameras or monitors.  This technique often uses haptic feedback (touch sensations) to provide surgeons with information about the tissue they are manipulating.
+4,Z00.35,T,Computergesteuerte Chirurgie mit mehreren Datenquellen,complement,,0,,4,,Computergesteuerte Chirurgie mit mehreren Datenquellen,"Computer-Assisted Surgery with Multiple Data Sources|Surgical procedures guided by computers that utilize input from various data sources to enhance precision and decision-making during surgery. This can include real-time imaging (e.g., X-ray, CT, MRI), patient data (e.g., medical history, vital signs), and sensor information (e.g., force feedback, surgical instrument position). 
+
+
+",Computer-Assisted Surgery with Multiple Data Sources,"Surgical procedures guided by computers that utilize input from various data sources to enhance precision and decision-making during surgery. This can include real-time imaging (e.g., X-ray, CT, MRI), patient data (e.g., medical history, vital signs), and sensor information (e.g., force feedback, surgical instrument position)."
+4,Z00.39,T,"Computergesteuerte Chirurgie, sonstige",complement,,0,,4,,"Computergesteuerte Chirurgie, sonstige","Robot-Assisted Surgery, Other|Surgical procedures that utilize robotic systems to assist surgeons in performing complex operations with enhanced precision, dexterity, and visualization.  ""Other"" refers to a broad category of robot-assisted surgical techniques beyond the most common ones (e.g., laparoscopic surgery). 
+
+
+","Robot-Assisted Surgery, Other","Surgical procedures that utilize robotic systems to assist surgeons in performing complex operations with enhanced precision, dexterity, and visualization.  ""Other"" refers to a broad category of robot-assisted surgical techniques beyond the most common ones (e.g., laparoscopic surgery)."
+4,Z00.39,B,"Computergesteuerte Chirurgie, n.n.bez.",non,,0,,4,,"Computergesteuerte Chirurgie, n.n.bez.","Computer-Assisted Surgery, unspecified|A surgical procedure where a computer system assists the surgeon in performing the operation. This can involve various levels of assistance, from providing real-time imaging guidance to executing precise movements of surgical instruments. 
+
+
+","Computer-Assisted Surgery, unspecified","A surgical procedure where a computer system assists the surgeon in performing the operation. This can involve various levels of assistance, from providing real-time imaging guidance to executing precise movements of surgical instruments."
+3,Z00.4,T,Adjunktiv vaskuläre Massnahmen,non,,0,,3,,Adjunktiv vaskuläre Massnahmen,"Adjunctive Vascular Measures|Additional procedures or treatments aimed at improving blood flow to a specific area, often used in conjunction with other therapies.  In a clinical context, this could refer to interventions like angioplasty, stenting, or medication to enhance circulation. 
+
+
+",Adjunctive Vascular Measures,"Additional procedures or treatments aimed at improving blood flow to a specific area, often used in conjunction with other therapies.  In a clinical context, this could refer to interventions like angioplasty, stenting, or medication to enhance circulation."
+3,Z00.4,N,"Die Kodes unter 00.4- sind Zusatzkodes. Sie bilden zusätzliche Massnahmen bei Eingriffen an Gefässen ab.  Die spezifischen Eingriffe sind separat zu kodieren. Diese Kodes gelten sowohl für koronare wie auch für periphere Gefässe. Richtig werden sowohl die Anzahl der operierten Gefässe, wie die Anzahl der eingesetzten Materialien angegeben.",non,,0,,3,,"Die Kodes unter 00.4- sind Zusatzkodes. Sie bilden zusätzliche Massnahmen bei Eingriffen an Gefässen ab.  Die spezifischen Eingriffe sind separat zu kodieren. Diese Kodes gelten sowohl für koronare wie auch für periphere Gefässe. Richtig werden sowohl die Anzahl der operierten Gefässe, wie die Anzahl der eingesetzten Materialien angegeben.","Codes under 00.4- are additional codes. They represent additional measures during interventions on vessels. The specific procedures should be coded separately. These codes apply to both coronary and peripheral vessels. Both the number of operated vessels and the number of materials used should be specified correctly.  
+
+
+",Codes under 00.4- are additional codes. They represent additional measures during interventions on vessels. The specific procedures should be coded separately. These codes apply to both coronary and peripheral vessels. Both the number of operated vessels and the number of materials used should be specified correctly.,
+3,Z00.4,S,Endarteriektomie (38.10 - 38.18.-),non,,0,,3,,Endarteriektomie ,"Endarterectomy|A surgical procedure to remove plaque buildup from the inner lining (intima) of an artery. This is often performed on arteries in the legs or arms when they are narrowed by atherosclerosis, a condition where fatty deposits build up inside the artery walls.  
+
+
+",Endarterectomy,"A surgical procedure to remove plaque buildup from the inner lining (intima) of an artery. This is often performed on arteries in the legs or arms when they are narrowed by atherosclerosis, a condition where fatty deposits build up inside the artery walls."
+3,Z00.4,S,"Jede Angioplastik oder Atherektomie (00.66.-, 39.50.-, 39.72.-, 39.75.-, 39.76.-, 39.77.-, 39.79.-)",non,,0,,3,,Jede Angioplastik oder Atherektomie ,"Every Angioplasty or Atherectomy |Angioplasty: A procedure to widen narrowed or obstructed blood vessels (typically arteries) using a balloon catheter. Atherectomy: A surgical procedure to remove plaque buildup from the walls of an artery, restoring blood flow.  
+
+
+",Every Angioplasty or Atherectomy,"Angioplasty: A procedure to widen narrowed or obstructed blood vessels (typically arteries) using a balloon catheter. Atherectomy: A surgical procedure to remove plaque buildup from the walls of an artery, restoring blood flow."

@@ -1,0 +1,5 @@
+FROM gemma2
+PARAMETER temperature 0
+SYSTEM Translate from German to English. Input text is from the clinical context. Acronyms in the text will be medical/surgical acronyms. Include an explanation of the term. Do not include a medical disclaimer since this is a research project. Do not include greetings, conclusions, or anything else, just the requested output. The output format must be the translation followed by a bar symbol followed by the explanation
+MESSAGE user Diagnostischer Ultraschall des Auges
+MESSAGE assistant Diagnostic Ultrasound of the Eye|Ultrasound imaging to diagnose conditions affecting the eye. Also known as ocular ultrasonography, is a non-invasive diagnostic procedure that utilizes high-frequency sound waves to create images of the eye's internal structures. This imaging technique is particularly useful for evaluating the posterior segment of the eye, which includes the vitreous humor, retina, choroid, and optic nerve.

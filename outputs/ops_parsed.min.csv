@@ -1,0 +1,10 @@
+﻿code,label
+1,diagnostische massnahmen
+1-10...1-10,diagnostische massnahmen: Klinische Untersuchung
+1-10,diagnostische massnahmen: Klinische Untersuchung: Klinische Untersuchung
+1-100,diagnostische massnahmen: Klinische Untersuchung: Klinische Untersuchung: Klinische Untersuchung in Allgemeinanästhesie
+1-20...1-33,diagnostische massnahmen: Untersuchung einzelner Körpersysteme
+1-20,diagnostische massnahmen: Untersuchung einzelner Körpersysteme: Neurologische Untersuchungen
+1-202,diagnostische massnahmen: Untersuchung einzelner Körpersysteme: Neurologische Untersuchungen: Diagnostik zur Feststellung des irreversiblen Hirnfunktionsausfalls
+1-202.0,diagnostische massnahmen: Untersuchung einzelner Körpersysteme: Neurologische Untersuchungen: Diagnostik zur Feststellung des irreversiblen Hirnfunktionsausfalls: Bei einem potenziellen Organspender
+1-202.00,diagnostische massnahmen: Untersuchung einzelner Körpersysteme: Neurologische Untersuchungen: Diagnostik zur Feststellung des irreversiblen Hirnfunktionsausfalls: Bei einem potenziellen Organspender: Ohne Feststellung des irreversiblen Hirnfunktionsausfalls
